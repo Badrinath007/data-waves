@@ -2,7 +2,7 @@
 
 Data Waves is a cutting-edge platform designed to provide advanced podcast analytics, marketing attribution, and audience engagement insights. Leveraging AI and robust data analytics, it empowers podcasters and marketers to make informed decisions and maximize their reach.
 
-##SITEMAP
+## SITEMAP
 
 ```bash
 1. LOGIN
