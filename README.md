@@ -4,13 +4,13 @@ Data Waves is a cutting-edge platform designed to provide advanced podcast analy
 
 ##SITEMAP
 
-'''bash
+```bash
 1. LOGIN
 2. SIGNUP
 3. HOME
 4. DASHBOARD
 5. PROFILE
-'''
+```
 
 ## Features
 
