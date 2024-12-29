@@ -81,9 +81,7 @@ Data Waves is a cutting-edge platform designed to provide advanced podcast analy
 
 ![Demo]
 
-https://github.com/user-attachments/assets/c95b60d4-2282-4c25-b9a1-317ae576ea9f
-
-
+https://github.com/user-attachments/assets/b204a3e4-c367-4d89-8179-f6b69bf2ffc6
 
 
 ## License
