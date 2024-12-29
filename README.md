@@ -14,14 +14,6 @@ Data Waves is a cutting-edge platform designed to provide advanced podcast analy
 5. PROFILE
 ```
 
-## Features
-
-- **Podcast Analytics**: Track detailed performance metrics for podcasts.
-- **Marketing Attribution**: Understand the effectiveness of marketing campaigns.
-- **Audience Engagement**: Gain insights into listener behavior and preferences.
-- **AI-Powered Insights**: Leverage machine learning to uncover trends and patterns.
-- **Seamless Integration**: Connect with platforms like podcastindex.org for comprehensive data.
-
 ## Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS
@@ -61,13 +53,13 @@ Data Waves is a cutting-edge platform designed to provide advanced podcast analy
 
 3. Configure Supabase:
 
-   - Add your Supabase credentials in `.env` files for both the frontend and backend.
+   - Add your Supabase credentials in `supabasecl;ent.js` file for both the frontend and backend.
 
 4. Run the servers:
 
    - **Frontend**:
      ```bash
-     npm start
+     npm run dev
      ```
    - **Backend**:
      ```bash
@@ -75,7 +67,7 @@ Data Waves is a cutting-edge platform designed to provide advanced podcast analy
      ```
 
 5. Access the application:
-   Open your browser and navigate to `http://localhost:3000`.
+   Open your browser and navigate to `http://localhost:5173`.
 
 ## Demo Video
 
