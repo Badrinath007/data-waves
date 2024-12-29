@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+supabase
+pandas
+celery
+redis
+python-dotenv
+Flask==2.3.2
+flask-cors
+flask-limiter==2.9.1
+supabase==1.1.0
+werkzeug==2.3.6
+bcrypt==4.0.1
+requests==2.31.0
