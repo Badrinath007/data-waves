@@ -1,4 +1,6 @@
 # Data Waves
+![Screenshot 2024-12-29 111602](https://github.com/user-attachments/assets/2c7275eb-6729-4b66-8519-537b16c3d922)
+
 
 Data Waves is a cutting-edge platform designed to provide advanced podcast analytics, marketing attribution, and audience engagement insights. Leveraging AI and robust data analytics, it empowers podcasters and marketers to make informed decisions and maximize their reach.
 
@@ -78,6 +80,10 @@ Data Waves is a cutting-edge platform designed to provide advanced podcast analy
 ## Demo Video
 
 ![Demo]
+
+https://github.com/user-attachments/assets/c95b60d4-2282-4c25-b9a1-317ae576ea9f
+
+
 
 
 ## License
