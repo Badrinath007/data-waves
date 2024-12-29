@@ -53,7 +53,7 @@ Data Waves is a cutting-edge platform designed to provide advanced podcast analy
 
 3. Configure Supabase:
 
-   - Add your Supabase credentials in `supabasecl;ent.js` file for both the frontend and backend.
+   - Add your Supabase credentials in `supabaseclient.js` file for both the frontend and backend.
 
 4. Run the servers:
 
